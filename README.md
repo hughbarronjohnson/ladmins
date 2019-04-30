@@ -1,5 +1,5 @@
 # ladmins
-Intro Docker project for Linux Admins
+Intro Docker project for the CCIT Linux Admins meeting
 
 ## Overview
 This project produces a very basic Apache webserver running PHP to show as an example for web development using containers
